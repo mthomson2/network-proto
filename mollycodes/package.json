@@ -1,0 +1,19 @@
+{
+  "name": "mollycodes",
+  "version": "0.0.1",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mthomson2/network-proto.git"
+  },
+  "author": "Molly Thomson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mthomson2/network-proto/issues"
+  },
+  "homepage": "https://github.com/mthomson2/network-proto#readme"
+}
